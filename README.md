@@ -2,6 +2,8 @@
 
 Fala pessoal, essa é a Ana, uma assistente pessoal virtual que escuta os seus comandos de voz e executa-os!
 
+
+
 ## Features:
 * **⌚ Horário atual:** "Que horas são?"<br>
 * **🔎 Pesquisa no Google:** "Pesquisar objeto no Google"<br>
